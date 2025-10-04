@@ -93,3 +93,40 @@ footer {
   border-radius: 8px; /* optional: rounded corners */
 }
 
+
+/* Contact Section */
+.contact {
+  background: #f0f4ff;
+  padding: 30px 20px;
+  text-align: center;
+  margin-top: 20px;
+  border-top: 2px solid #1e3a8a;
+}
+
+.contact h2 {
+  color: #1e3a8a;
+  margin-bottom: 10px;
+}
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0 0 0;
+}
+
+.contact li {
+  margin: 5px 0;
+  font-weight: bold;
+}
+
+.contact a {
+  color: #1e3a8a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+
