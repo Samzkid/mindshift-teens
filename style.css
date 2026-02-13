@@ -12,6 +12,9 @@ header {
   position: relative;
   background: #1e3a8a;
   color: #fff;
+  height: 30px;
+  width: 100%;
+  
   
   display: flex;
   justify-content: end;
@@ -150,6 +153,7 @@ footer {
   color: #1e3a8a;
   margin-bottom: 20px;
 }
+
 
 
 
