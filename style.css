@@ -26,6 +26,11 @@ header h1 {
   font-size: 20px;
 }
 
+nav {
+  position: absolute;
+  right:0;
+}
+
 nav a {
   color: #fff;
   text-decoration: none;
@@ -145,6 +150,7 @@ footer {
   color: #1e3a8a;
   margin-bottom: 20px;
 }
+
 
 
 
