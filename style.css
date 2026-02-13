@@ -26,6 +26,8 @@ header h1 {
 nav {
   display: flex;
   flex-wrap: wrap;
+  justify-content: end;
+  align-items: center;
 }
 
 nav a {
@@ -147,5 +149,6 @@ footer {
   color: #1e3a8a;
   margin-bottom: 20px;
 }
+
 
 
